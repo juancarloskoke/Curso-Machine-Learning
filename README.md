@@ -9,3 +9,6 @@ Dia 3
 Trabajo con Prophet
 Trabajo con Folium
 Introduccion a ML
+Dia4
+Trabajo Interactive Visual Analitics con Folium
+Trabajo Machine Learning Predicciones
